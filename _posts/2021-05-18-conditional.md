@@ -1,5 +1,5 @@
 ---
-layout: sngle
+layout: single
 tittle: conditional
 ---
 
